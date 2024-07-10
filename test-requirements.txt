@@ -3,3 +3,4 @@ nose
 jwcrypto;python_version>="2.7"
 redis;python_version>="2.7"
 simplejson;python_version>="2.7"
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
